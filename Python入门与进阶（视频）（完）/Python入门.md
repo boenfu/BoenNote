@@ -168,7 +168,7 @@ key 必须是不可变的类型 如字符串,数字,元组
 
 空字典 {}
 
-![img](file:///D:\BoenMD\Python\Python入门与进阶\py1.png)
+![img](https://github.com/boenfu/BoenNote/blob/master/Python%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89%EF%BC%88%E5%AE%8C%EF%BC%89/py1.png)
 
 
 
@@ -675,7 +675,7 @@ xx.\_\_closure\_\_[0].cell+contents
 
 闭包的意义就是保存了 函数调用时的现场
 
-![img](file:///D:\BoenMD\Python\Python入门与进阶\py2.png)
+![img](https://github.com/boenfu/BoenNote/blob/master/Python%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89%EF%BC%88%E5%AE%8C%EF%BC%89/py2.png)
 
 之所以会报 引用之前未定义的错误
 
@@ -693,7 +693,7 @@ xx.\_\_closure\_\_[0].cell+contents
 
 
 
-![img](file:///D:\BoenMD\Python\Python入门与进阶\py3.png)
+![img](https://github.com/boenfu/BoenNote/blob/master/Python%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89%EF%BC%88%E5%AE%8C%EF%BC%89/py3.png)
 
 闭包的例子 保存了案发现场
 
@@ -801,7 +801,7 @@ print(r) // 36
 
 kw是一个字典
 
-![img](file:///D:\BoenMD\Python\Python入门与进阶\py4.png)
+![img](https://github.com/boenfu/BoenNote/blob/master/Python%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89%EF%BC%88%E5%AE%8C%EF%BC%89/py4.png)
 
 装饰器函数基本套路
 
@@ -853,9 +853,9 @@ b = [ i * i for i in a if i >= 5]
 
 推导字典的写法
 
-![img](file:///D:\BoenMD\Python\Python入门与进阶\py5.png)
+![img](https://github.com/boenfu/BoenNote/blob/master/Python%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89%EF%BC%88%E5%AE%8C%EF%BC%89/py5.png)
 
-![img](file:///D:\BoenMD\Python\Python入门与进阶\py6.png)
+![img](https://github.com/boenfu/BoenNote/blob/master/Python%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89%EF%BC%88%E5%AE%8C%EF%BC%89/py6.png)
 
 
 
