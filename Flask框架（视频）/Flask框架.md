@@ -137,9 +137,9 @@ app 或 蓝图的初始化 都放在文件夹下的 init py里
 
 pipenv install wtforms
 
-![](file:///D:\BoenMD\Python\Flask\f1.png)
+![](https://github.com/boenfu/BoenNote/blob/master/Flask%E6%A1%86%E6%9E%B6%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89/f1.png)
 
-![](file:///D:\BoenMD\Python\Flask\f2.png)
+![](https://github.com/boenfu/BoenNote/blob/master/Flask%E6%A1%86%E6%9E%B6%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89/f2.png)
 
 想拿到错误的原因 在form.errors
 
@@ -165,13 +165,13 @@ flask改进了它 弄了个 Flask_SQLAlchemy
 
 pipenv install flask-sqlalchemy
 
-![](file:///D:\BoenMD\Python\Flask\f3.png)
+![](https://github.com/boenfu/BoenNote/blob/master/Flask%E6%A1%86%E6%9E%B6%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89/f3.png)
 
 
 
 要和 flask 关联起来 
 
-![](file:///D:\BoenMD\Python\Flask\f4.png)
+![](https://github.com/boenfu/BoenNote/blob/master/Flask%E6%A1%86%E6%9E%B6%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89/f4.png)
 
 然后在app的init文件里 导入 这里的db
 
