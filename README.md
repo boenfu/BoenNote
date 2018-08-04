@@ -10,7 +10,7 @@
 
 ##### 目录：
 
-[你不知道的JavaScript上（完））](https://github.com/boenfu/BoenNote/blob/master/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%E4%B8%8A%EF%BC%88%E5%AE%8C%EF%BC%89.md)
+[你不知道的JavaScript上（完）](https://github.com/boenfu/BoenNote/blob/master/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%E4%B8%8A%EF%BC%88%E5%AE%8C%EF%BC%89.md)
 
 [你不知道的JavaScript中](https://github.com/boenfu/BoenNote/blob/master/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%E4%B8%AD.md)
 
