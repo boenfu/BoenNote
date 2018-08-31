@@ -1,6 +1,4 @@
-#### 觉得对你有用 点个小星星再溜
-
-#### 不定期更新（每个字都是自己敲的ヾ(๑╹◡╹)ﾉ"）
+### 记点笔记
 
   未标注（完）的笔记随时可能会更新
 
@@ -28,6 +26,8 @@
 
 [Flask框架（视频）](
 https://github.com/boenfu/BoenNote/blob/master/Flask%E6%A1%86%E6%9E%B6%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89/Flask%E6%A1%86%E6%9E%B6.md)
+
+[CSS世界](https://github.com/boenfu/BoenNote/blob/master/CSS世界.md)
 
 [Linux学习笔记（视频）](https://github.com/boenfu/BoenNote/blob/master/Linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89.md)
 
